@@ -8,8 +8,8 @@
          "type": "Feature",
          "geometry": {
             "coordinates": [
-               3968,
-               4143
+               4143,
+               3968
             ],
             "type": "Point"
          }
@@ -21,8 +21,8 @@
          "type": "Feature",
          "geometry": {
             "coordinates": [
-               3101,
-               5055
+               5505,
+               3101
             ],
             "type": "Point"
          }
@@ -34,8 +34,8 @@
          "type": "Feature",
          "geometry": {
             "coordinates": [
-               3802,
-               5591
+               5591,
+               3802
             ],
             "type": "Point"
          }
@@ -47,8 +47,8 @@
          "type": "Feature",
          "geometry": {
             "coordinates": [
-               2600,
-               6544
+               6544,
+               2600
             ],
             "type": "Point"
          }
@@ -60,8 +60,8 @@
          "type": "Feature",
          "geometry": {
             "coordinates": [
-               2054,
-               7535
+               7535,
+               2054
             ],
             "type": "Point"
          }
