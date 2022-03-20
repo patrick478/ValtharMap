@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+       {
+         "properties": {
+            "name": "Eladrin Lighthouse"
+         },
+         "type": "Feature",
+         "geometry": {
+            "coordinates": [
+               3968,
+               4143
+            ],
+            "type": "Point"
+         }
+      },
+       {
+         "properties": {
+            "name": "Eladrin Lighthouse"
+         },
+         "type": "Feature",
+         "geometry": {
+            "coordinates": [
+               3101,
+               5055
+            ],
+            "type": "Point"
+         }
+      },
+       {
+         "properties": {
+            "name": "Eladrin Lighthouse"
+         },
+         "type": "Feature",
+         "geometry": {
+            "coordinates": [
+               3802,
+               5591
+            ],
+            "type": "Point"
+         }
+      },
+       {
+         "properties": {
+            "name": "Eladrin Lighthouse"
+         },
+         "type": "Feature",
+         "geometry": {
+            "coordinates": [
+               2600,
+               6544
+            ],
+            "type": "Point"
+         }
+      },
+       {
+         "properties": {
+            "name": "Eladrin Lighthouse"
+         },
+         "type": "Feature",
+         "geometry": {
+            "coordinates": [
+               2054,
+               7535
+            ],
+            "type": "Point"
+         }
+}
+]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+        {
+           "properties": {
+              "name": "Thōnhold "
+           },
+           "type": "Feature",
+           "geometry": {
+              "coordinates": [
+                 2401,
+                 3534
+              ],
+              "type": "Point"
+           }
+        },
+         {
+           "properties": {
+              "name": "Home "
+           },
+           "type": "Feature",
+           "geometry": {
+              "coordinates": [
+                 3253,
+                 4459
+              ],
+              "type": "Point"
+           }
+        },
+         {
+           "properties": {
+              "name": "Port Balthazar "
+           },
+           "type": "Feature",
+           "geometry": {
+              "coordinates": [
+                 5945,
+                 1308
+              ],
+              "type": "Point"
+           }
+        },
+         {
+           "properties": {
+              "name": "Kandrisst "
+           },
+           "type": "Feature",
+           "geometry": {
+              "coordinates": [
+                 6483,
+                 1844
+              ],
+              "type": "Point"
+           }
+        },
+         {
+           "properties": {
+              "name": "Micklegate "
+           },
+           "type": "Feature",
+           "geometry": {
+              "coordinates": [
+                 8277,
+                 2084
+              ],
+              "type": "Point"
+           }
+        }
+    ]
+}

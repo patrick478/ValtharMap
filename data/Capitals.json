@@ -1,0 +1,83 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+     {
+       "properties": {
+          "name": "Invermoore "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             4041,
+             4845
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "High Cairn "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             3151,
+             3141
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             2839,
+             2042
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Wyndamorn "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             4953,
+             1740
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Tarnside "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6681,
+             2935
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Dael’Ithin "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             7543,
+             3135
+          ],
+          "type": "Point"
+       }
+    }
+  ]
+}

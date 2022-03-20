@@ -1,0 +1,526 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+     {
+       "properties": {
+          "name": "Khrangor Hold "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             1861,
+             2205
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Edge Delving "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             1675,
+             2800
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Far Hold "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             1467,
+             2918
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Khrangor Station "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             2117,
+             2273
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "The Vale of Vā’shi "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             2179,
+             2939
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Mānth "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             3147,
+             3902
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Nōth "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             3241,
+             2741
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             3935,
+             1638
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Gathrik "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             4213,
+             2244
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Jagged Hollow "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             4391,
+             2620
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Wanders Meet "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             4141,
+             3106
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Filbourne "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5111,
+             3199
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Fort Bragon "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5069,
+             2641
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5571,
+             2152
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Lowester "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5607,
+             1736
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Mordencester "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5925,
+             1704
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Morrik’s Hovel "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5627,
+             2536
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Kandrisst Docks "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6537,
+             1708
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Thindamere "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5387,
+             3597
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Woden "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5707,
+             3119
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5937,
+             3211
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Thalebourne "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5935,
+             3597
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6243,
+             3319
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6501,
+             3811
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Barton "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6373,
+             2961
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6285,
+             2695
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Gardore "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5975,
+             2527
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6403,
+             2306
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6861,
+             3014
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6751,
+             3296
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6903,
+             2702
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Myriah "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6997,
+             2161
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6929,
+             3740
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Rhea’s Rest "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             8075,
+             1750
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Wildrun "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             7431,
+             2486
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Ythril Mor "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             7713,
+             2539
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Staryal "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             7553,
+             2813
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Jhernoth Constellatorium "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             7417,
+             3471
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             8005,
+             3401
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "??? "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             7835,
+             2885
+          ],
+          "type": "Point"
+       }
+    }
+
+  ]
+}

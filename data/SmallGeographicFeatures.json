@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+     {
+       "properties": {
+          "name": "Sulham Forest "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5753,
+             2945
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Aral Hills "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5805,
+             2805
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Lake Goldenwater "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6545,
+             2893
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "The Dark Wood "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             7973,
+             3379
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Rhea’s Crossing "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             8005,
+             1835
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Chasm of Dethris "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             1568,
+             2794
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "River Dole "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5416,
+             1878
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "South Dole "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             5012,
+             2410
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "Thernwash Delta "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6976,
+             2056
+          ],
+          "type": "Point"
+       }
+    },
+     {
+       "properties": {
+          "name": "The Thern "
+       },
+       "type": "Feature",
+       "geometry": {
+          "coordinates": [
+             6900,
+             2588
+          ],
+          "type": "Point"
+       }
+    }
+  ]
+}
